@@ -1,1 +1,1 @@
-# ml-with-git-action
+# End to end ML project example
